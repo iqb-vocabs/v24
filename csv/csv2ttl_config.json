@@ -1,0 +1,33 @@
+{
+    "id": "Allgemein",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Allgemeines Vokabular"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v25",
+    "outDir": "./",
+    "idPattern": "^[abcdefghprqstuvxyz]{1}[2345679]{1}[abcdefghprqstuvxyz]{1}$",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "kh",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kopfhörer"
+          }
+        ],
+        "filenameSource": "kh_Kopfhoerer.csv",
+        "filenameTarget": "kh_Kopfhoerer.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
