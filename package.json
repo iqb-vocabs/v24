@@ -1,5 +1,5 @@
 {
-  "name": "iqb-vocabs_v25",
+  "name": "iqb-vocabs_v24",
   "version": "0.1.0",
   "description": "Allgemeines Vokabular",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/v25.git"
+    "url": "git+https://github.com/iqb-vocabs/v24.git"
   },
   "author": "IQB",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/v25/issues"
+    "url": "https://github.com/iqb-vocabs/v24/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/v25#readme",
+  "homepage": "https://github.com/iqb-vocabs/v24#readme",
   "devDependencies": {
     "@iqb/csv2ttl": "^0.8.2"
   }
