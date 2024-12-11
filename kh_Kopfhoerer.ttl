@@ -25,9 +25,9 @@ n1:d3q
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Allgemeines Vokabular - Kopfhörer"@de;
-	dc:title "Allgemeines Vokabular - Kopfhörer"@de;
-	dc:description "Allgemeines Vokabular - Kopfhörer"@de;
+	dct:title "Audio - Kopfhörer"@de;
+	dc:title "Audio - Kopfhörer"@de;
+	dc:description "Audio - Kopfhörer"@de;
 	skos:hasTopConcept
 		n1:r5f,
 		n1:b6h,

@@ -1,7 +1,7 @@
 {
   "name": "iqb-vocabs_v24",
   "version": "0.1.0",
-  "description": "Allgemeines Vokabular",
+  "description": "Audio",
   "scripts": {
     "run_id": "addidcsv csv",
     "run_ttl": "csv2ttl csv"
