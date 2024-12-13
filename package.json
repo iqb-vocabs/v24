@@ -1,6 +1,6 @@
 {
   "name": "iqb-vocabs_v24",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Audio",
   "scripts": {
     "run_id": "addidcsv csv",

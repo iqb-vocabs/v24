@@ -9,25 +9,25 @@ n1:r5f
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Keine"@de.
+	skos:prefLabel "nein"@de.
 n1:b6h
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Optional"@de.
+	skos:prefLabel "optional"@de.
 n1:d3q
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Pflicht"@de.
+	skos:prefLabel "verpflichtend"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Audio - Kopfhörer"@de;
-	dc:title "Audio - Kopfhörer"@de;
-	dc:description "Audio - Kopfhörer"@de;
+	dct:title "Audio - Kopfhörereinsatz"@de;
+	dc:title "Audio - Kopfhörereinsatz"@de;
+	dc:description "Audio - Kopfhörereinsatz"@de;
 	skos:hasTopConcept
 		n1:r5f,
 		n1:b6h,
